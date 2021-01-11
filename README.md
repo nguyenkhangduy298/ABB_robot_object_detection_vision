@@ -27,7 +27,7 @@
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Architecture_webservice_system 🚀 Under construction...  🚧
+	🚧  ABB_robot_object_detection_vision 🚀
 </h4> 
 
 <hr> -->
@@ -46,9 +46,9 @@
 
 ## :dart: About ##
 
-:heavy_check_mark:	Develop an object detection algorithm using YoloV3 for detecting custom objects (box, prism and cylinder).
-:heavy_check_mark:	Implement distance measurement using disparity map from 2D cameras to extract object’s location and orientation by pose estimattion.
-:heavy_check_mark:	Work with real industrial robot provided by ABB Company to process and pick the corresponding object in real time and error-handling.
+:heavy_check_mark:	Develop an object detection algorithm using YoloV3 for detecting custom objects (box, prism and cylinder). <br>
+:heavy_check_mark:	Implement distance measurement using disparity map from 2D cameras to extract object’s location and orientation by pose estimattion. <br>
+:heavy_check_mark:	Work with real industrial robot provided by ABB Company to process and pick the corresponding object in real time and error-handling. <br>
 
 ## :sparkles: Features ##
 
