@@ -1,0 +1,7 @@
+Max Z robot can reach: 973.50 (mm)
+Distance from Max Z to Camera: 185.0 (mm)
+
+Min Z robot can reach: 247.63 (mm)
+
+=> z to depth: d = (973.50 + 185.50)  - z
+=> distance from surface of object to camera with known z and thickness: ds = (973.50 + 185.50) - z - thickness

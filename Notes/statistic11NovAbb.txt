@@ -1,0 +1,9 @@
+1) 1.7 mm
+2) 1.8 mm
+
+
+
+Test XYZ-iteration with robot
+x - original: 817.42 - camera: 0
+y - original: -86.73 : camera: 0
+z - original: 481.75

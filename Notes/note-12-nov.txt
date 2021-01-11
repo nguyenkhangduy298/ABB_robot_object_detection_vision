@@ -1,0 +1,7 @@
+21.7mm -> Distance between cam and the robot
+
+24.5mm -> Distance between the real-robot and the ..
+
+Heights Points: 1070mm - in realted to the camera, diem nay` co gia tri laf 21.7
+
+=> Distance tu cam xong base robot: 1091.7mm
