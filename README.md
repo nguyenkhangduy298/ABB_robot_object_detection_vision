@@ -1,6 +1,4 @@
 # ABB_robot_object_detection_vision<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Architecture_webservice_system" />
-
   &#xa0;
 </div>
 
